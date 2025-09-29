@@ -1,11 +1,18 @@
 # Hi there 👋, I'm Shivam Kashyap
 
-![Coding GIF](https://media.giphy.com/media/3o7aD6vT9M18V1qQ7K/giphy.gif)
-
 ## About Me
 - 🔭 I’m currently pursuing **B.Tech in CSE (AIML)** at **Dr. A.P.J. Abdul Kalam Technical University**  
 - 🌱 I’m learning **Python, AI, ML, Web Development**  
 - 💻 I love coding, tech, and exploring new technologies    
+
+<!-- Coding GIF below About Me -->
+<p align="center">
+  <a href="https://github.com/samadpls/Programing-Gifs">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd21seHlnZzNkemhnbWQzdjBjcTZvM29hNTI0NDFnMHJ2MXR2dno0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="400" alt="Code Execution in Action">
+  </a>
+</p>
+
+
 
 ## Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/___silent_s)
@@ -19,4 +26,3 @@
 
 ## GitHub Stats
 ![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamkashyap&show_icons=true&theme=radical)
-
